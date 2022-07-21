@@ -1,0 +1,45 @@
+möglichkeit von katografie 
+
+flameshot screenshot
+
+kantenerkennung
+
+machine learning segmantation
+
+medium hat gute artikel (inkognito verwenden)
+
+weinfelder sind sehr gut erkennbar -> Struktur
+
+viele Trainingsdaten -> nachfragen bei Vinitor
+
+Bestehende Literatur überblick -> Trainieren ist bisschen ein Problem
+
+1) Firma kontaktieren dass wir Daten kriegen
+2) !!!Literatur und Onlinerecherche wieviel es da schon gibt -> WIe viele Stunden man sitzen müsste und Weinfelder erkennen müsste!!!
+
+Links zu Themen die weniger gehyped sind als Autos (zb Medizinbereich)
+
+https://deepsense.ai/satellite-images-semantic-segmentation-with-deep-learning/
+
+Gibt es jetzt fürs erstellen schon eine Software
+
+Button -> Detect automatically
+
+1)image segmentation
+2)button detect rows (Klassische Bildverarbeitung) -> für jede Region muss man Winkel erkennen und mit edge detection algorythmus drüberschauen
+3)Hängt von Menge an Daten ab -> Gaaanz billigen Machine Learning Algorythmus Analyse wieviel Ertrag man ca machen könnte mit Weinsorte, Gebiet, Reihenanzahl, ...
+
+Prinzipiell Klimainformationen über JPS Daten zu erhalten -> Für Auswirkung auf Trauben -> Wie schwül ist es, wie oft regnet es
+
+Demoaccount
+
+
+mark kruis schreiben
+
+
+was wichtig wäre -> Interface entsprechend intelligent erweitern
+
+
+das mit den häusern war gaaanz gut
+https://deepsense.ai/satellite-images-semantic-segmentation-with-deep-learning/
+
