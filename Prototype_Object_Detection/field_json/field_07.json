@@ -1,0 +1,81 @@
+﻿[
+	[
+		"Scope Name",
+		"ID",
+		"Annotation Name",
+		"Class",
+		"X Min",
+		"X Max",
+		"Y Min",
+		"Y Max",
+		"Z Min",
+		"Z Max",
+		"T Min",
+		"T Max",
+		"Type",
+		"Color (RGB Hex)",
+		"Area",
+		"Area Unit",
+		"Circumference",
+		"Circumference Unit",
+		"Length",
+		"Length Unit",
+		"Count",
+		"Geometry",
+		"Rotation"
+	],
+	[
+		"feld7.PNG",
+		-8,
+		"field 1",
+		"field",
+		465,
+		511,
+		368,
+		1,
+		1,
+		1,
+		1,
+		1,
+		"Polygon",
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		[
+			[
+				464,
+				367
+			],
+			[
+				507,
+				369
+			],
+			[
+				510,
+				463
+			],
+			[
+				509,
+				542
+			],
+			[
+				493,
+				541
+			],
+			[
+				468,
+				551
+			],
+			[
+				464,
+				422
+			]
+		],
+		null
+	]
+]
