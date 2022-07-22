@@ -1,0 +1,18 @@
+<annotation>
+        <filename>field_09.png</filename>
+        <size>
+            <width>800</width>
+            <height>600</height>
+            <depth>3</depth>
+        </size>
+        <object>
+            <name>field</name>
+            <bndbox>
+                <xmin>563</xmin>
+                <ymin>18</ymin>
+                <xmax>649</xmax>
+                <ymax>187</ymax>
+            </bndbox>
+        </object>
+    </annotation>
+    
